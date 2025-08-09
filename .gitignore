@@ -1,0 +1,8 @@
+*.dll
+*.pdb
+/GestionUsuarios/bin
+/GestionUsuarios/obj
+/GestionUsuarios/packages
+/bin
+/obj
+/packages
